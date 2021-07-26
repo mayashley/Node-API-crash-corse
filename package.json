@@ -1,0 +1,19 @@
+{
+  "name": "node-api-crash-corse",
+  "version": "1.0.0",
+  "description": "node crash corse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayashley/Node-API-crash-corse.git"
+  },
+  "author": "Ashley May",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayashley/Node-API-crash-corse/issues"
+  },
+  "homepage": "https://github.com/mayashley/Node-API-crash-corse#readme"
+}
