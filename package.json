@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mayashley/Node-API-crash-corse/issues"
   },
-  "homepage": "https://github.com/mayashley/Node-API-crash-corse#readme"
+  "homepage": "https://github.com/mayashley/Node-API-crash-corse#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
